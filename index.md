@@ -6,3 +6,7 @@
 ###### Header 6
 
 ![image of color pink](https://htmlcolorcodes.com/assets/images/colors/pastel-pink-color-solid-background-1920x1080.png)
+
+``` javascript
+var myVar = "Hello, World!";
+```
